@@ -1,0 +1,43 @@
+h1 {
+
+	color: #248888;
+	font-size: 50px ;
+font-family: 'Lato', sans-serif;
+}
+
+
+.cadre{
+	background-color: rgb(256,256,256);
+text-align: center;
+margin: 100px;
+padding: 50px;
+border: solid 5px #248888; 
+border-radius: 5px;
+box-shadow: 8px 8px 12px #555 ;
+}
+
+body { 
+	background-color: #FFFBCC;)
+	font-family: 'Lato', sans-serif;
+	 }
+
+p{font-weight: bold;}
+
+#abstract {font-weight: bold;}
+
+img {width: 200px;}
+#avatar { 
+width: 150px }
+
+#logo {
+	box-shadow: 8px 8px 12px #555
+	width: 150px
+
+}
+
+.icon-network{ 
+font-size: 70px;
+color: #248888; 
+text-decoration: none;
+}
+
