@@ -1,0 +1,90 @@
+body {
+	background: rgb(240, 240, 240);
+	color: rgb( 20, 20, 20);
+	font-family: 'Open Sans', sans-serif;
+	margin :0;
+}
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-size : 70x;
+	color: red
+}
+h2 {
+	font-size: 18px;
+}
+a {
+	text-decoration: none;
+	color:grey;
+}
+a:hover {
+	text-decoration: none;
+	color :white;
+
+}
+
+#banner {
+	background-image: url(images/pexels.jpeg);
+    background-size: cover; 
+	padding: 120px;
+	text-align: center;
+	color: white
+}
+
+#banner h1 {
+    font-family: 'Roboto', sans-serif;
+	font-size : 70px;
+	color: rgb(245, 245, 245);
+	text-shadow: 1px 1px 7px rgb(80, 80, 80);
+}
+#banner p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: lighter;
+	opacity: 0.9;
+	text-shadow: 1px 1px 7px rgb(80, 80, 80);
+
+}
+
+
+.card {
+	padding: 0px;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 100px;
+
+}
+
+
+#footer {
+	background: black;
+	color:white;
+	padding: 20px;
+}
+
+#footer a {
+	font-size: 20px; 
+	color: grey;
+}
+#footer a:hover {
+  color: white;
+}
+
+#mc_embed_signup {
+
+	background: white;
+	padding: 20px;
+}
+
+#mc_embed_signup_scroll h2 {
+	color: rgb(20, 20, 20);
+	font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
